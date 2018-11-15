@@ -23,12 +23,13 @@ This list was started in September of 2018.
 ### Personal website
 #### Status: [in progress]
 #### Summary
-The repositories are located [here](https://github.com/VlocC)
 I have started programming, designing, and writing content for my personal website. I am actually super stoked about this. I am not too good at designing things, but I am excited about writing all the content for it. The website is going to hold all of my projects, experience, and thoughts in the forms of writings! It is in progress but I hope it turns out well!
 #### Technologies
 - Javascript
 - React
 - Styled Components
+
+The repository is located [here](https://github.com/multiojuice/personal-website)
 
 ### CPP video games
 #### Status: [in progress]
@@ -38,6 +39,8 @@ A series of video game tutorial implementations that all focus around learning C
 - C++
 - SFML
 
+The repository is located [here](https://github.com/multiojuice/cpp-game-tutorials)
+
 ### Solo
 #### Status: [back burning]
 #### Summary
@@ -46,12 +49,17 @@ This was my first attempt at using GraphQL on the backend side. This is to be a 
 - Go
 - GraphQL
 
+The repository are for the service is located [here](https://github.com/multiojuice/) and the client is [here](https://github.com/multiojuice/solo-client)
+
+
 ### random vine
 #### Status: [completed]
 #### Summary
 random vine is a command line tool/application that will output the text and description of a random vine from the social media platform vine. It is setup like the unix tool `fortune`, so the vines must be manually put into the app. So let's see some PRs!
 #### Technologies
 - C
+
+The repository is located [here](https://github.com/multiojuice/random-vine)
  
 ## October 2018
 ### VlocChain v2
@@ -90,7 +98,7 @@ A React application, that runs at lsmp-lsmp.a.csh.rit.edu. This is an app that d
 - Javascript
 - React
 - Hosted on an OpenShift
-- Powered by tons of open RESTful APIs :)
+- Powered by tons of public RESTful APIs :)
 
 The repository is located [here](https://github.com/multiojuice/lsmp)
 
