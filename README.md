@@ -3,14 +3,28 @@ A place to see what personal projects I am working on, have worked on, and plan 
 
 This list was started in September of 2018.
 ## Index
+[November 2018](#november-2018)
+- [C++ video games](#cpp-video-games)
+- [solo](#solo)
+- [random vine](#random-vine)
+
 [October 2018](#october-2018)
 - [VlocChain v2](#vlocchain-v2)
+- [solved](#solved)
 - [byebye](#byebye)
 
 [September 2018](#september-2018)
 - [LSMP](#lsmp)
 - [nand2tetris](#nand2tetris)
 - [web-mess](#web-mess)
+  
+## November 2018
+### CPP video games
+
+### Solo
+
+### random vine
+
   
 ## October 2018
 ### VlocChain v2
@@ -28,6 +42,8 @@ A video streaming service that utilizes an open and decentralized network with b
 - Express.js
 
 The repositories are located [here](https://github.com/VlocC)
+
+### Solved
 
 ### byebye
 #### Status: [Complete]
